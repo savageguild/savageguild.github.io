@@ -31,7 +31,7 @@ layout: post
 
 ###  FAQ
 Posso minerar nas serpentes com meu main/secundario?
-- Sim, pode, porem caso peçam as pedras com mains leveis 73+, tente conversar e chegar num acordo, caso não consiga, evite problemas e não aumentem eles, seja responsável com você mesmo e com o clã, se eles pedem pra gente sair de uma pedra, saia e caso descumpram alguma regra, criem um report e não revidem ataques em carnal, não percam a razão de vocês, existe um sistema de report pra isso, sigamos com o que nos é solicitado evitemos quaisquer problemas com a Owner.
+> Sim, pode, porem caso peçam as pedras com mains leveis 73+, tente conversar e chegar num acordo, caso não consiga, evite problemas e não aumentem eles, seja responsável com você mesmo e com o clã, se eles pedem pra gente sair de uma pedra, saia e caso descumpram alguma regra, criem um report e não revidem ataques em carnal, não percam a razão de vocês, existe um sistema de report pra isso, sigamos com o que nos é solicitado evitemos quaisquer problemas com a Owner.
 
 Teremos direito a farmar com a main outras pedreiras além do piso 1 e 4 de bicheon e serpentes?
-- Sim, o 1f. No 2f e 3f, só mochilas poderão minerar ou caso você tenha level acima de 73, poderá minerar douradas e vermelhas, NÃO AZUIS!.
+> Sim, o 1f. No 2f e 3f, só mochilas poderão minerar ou caso você tenha level acima de 73, poderá minerar douradas e vermelhas, NÃO AZUIS!.
