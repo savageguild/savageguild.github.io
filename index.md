@@ -4,4 +4,6 @@ layout: home
 
 {{ site.title | escape }}
 
-## Em construção
+## Poruqe somos selvagens!
+
+->![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/savage.jpg)<-
