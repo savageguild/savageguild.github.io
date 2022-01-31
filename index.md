@@ -6,4 +6,4 @@ layout: home
 
 ## Poruqe somos selvagens!
 
-->![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/savage.jpg)<-
+[SAVAGE GUILD]({{site.baseurl}}/gitbook/images/savage.jpg)
