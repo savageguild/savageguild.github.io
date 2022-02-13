@@ -11,3 +11,4 @@ layout: post
 
 ### PK's
 ![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/fourking.jpg)
+Chinas penando nas mãos do Cleitin hahahah
