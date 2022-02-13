@@ -8,8 +8,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://savageguild.github.io'
-baseurl:          '/'
+url:              'https://savageguild.github.io/'
+baseurl:          'https://savageguild.github.io/'
 rss:              RSS
 
 toc:
