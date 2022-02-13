@@ -12,10 +12,10 @@ Doação total para 3 boss- 3.6k de gold
 
 ### Doação de GOLD
 A doação de gold deverá ser Avisada no MEU PM(ALDRYN), para que eu registre na planilha de doações, os valores devem ser integrais.
-- 1 Semana - 150 G,
-- 2 Semanas - 300 G,
-- 3 Semanas - 450 G,
-- 4 Semanas - 600 G.
+- 1 Semana - 100 G,
+- 2 Semanas - 200 G,
+- 3 Semanas - 300 G,
+- 4 Semanas - 400 G.
 
 OBS: Valores quebrados menores que 150 ou entre os valores acima citados serão desconsiderados*.
 
