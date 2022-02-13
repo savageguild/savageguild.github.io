@@ -2,7 +2,7 @@
 title: Mineração
 author: DarkW3B
 date: 2021-01-05
-category: Jekyll
+category: regras
 layout: post
 ---
 

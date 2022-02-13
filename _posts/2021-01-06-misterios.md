@@ -2,7 +2,7 @@
 title: Mistérios
 author: DarkW3B
 date: 2021-01-06
-category: Jekyll
+category: dicas
 layout: post
 ---
 

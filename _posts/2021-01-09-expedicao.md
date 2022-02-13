@@ -2,7 +2,7 @@
 title: Expedição
 author: DarkW3B
 date: 2021-01-09
-category: Jekyll
+category: cla
 layout: post
 ---
 
