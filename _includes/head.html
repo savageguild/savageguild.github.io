@@ -1,4 +1,4 @@
-<meta charset="UTF-8">
+x<meta charset="UTF-8">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
 {%- if page.title -%}
@@ -8,12 +8,10 @@
 {%- endif -%}
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta name="description" content="{{site.description}}">
-
-{%- if site.gitbook_version -%}
-    <meta name="generator" content="Jekyll (using style of GitBook {{ site.gitbook_version | escape }})">
+<meta name="description" content="{{ page.title | escape }} · {{site.description}}"> {%- if site.gitbook_version -%}
+    <meta name="generator" content="{{ site.gitbook_version | escape }})">
 {%- else -%}
-    <meta name="generator" content="Jekyll (using style of GitBook)">
+    <meta name="generator" content="{{ site.gitbook_version | escape }})">
 {%- endif -%}
 
 {%- if site.author -%}
@@ -22,9 +20,9 @@
 
 <meta property="og:locale" content="pt_BR">
 <meta property="og:url" content="{{site.baseurl}}">
-<meta property="og:title" content="{{site.title}}">
+<meta property="og:title" content="{{ page.title | escape }} · {{site.title}}">
 <meta property="og:site_name" content="{{site.title}}">
-<meta property="og:description" content="{{site.description}}">
+<meta property="og:description" content="{{ page.title | escape }} · {{site.description}}">
 <meta property="og:image" content="{{site.baseurl}}/gitbook/images/savage.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="605">
