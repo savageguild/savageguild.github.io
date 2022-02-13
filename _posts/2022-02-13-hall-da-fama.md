@@ -2,7 +2,7 @@
 title: Hall da Fama
 author: DarkW3B
 date: 2022-02-13
-category: Jekyll
+category: hall-da-fama
 layout: post
 ---
 
@@ -10,5 +10,4 @@ layout: post
 ![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/guerras_01.jpg)
 
 ### PK's
-![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/fourking.jpg
-)
+![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/fourking.jpg)
