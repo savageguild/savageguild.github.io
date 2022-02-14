@@ -7,6 +7,8 @@ layout: post
 ---
 
 ### Guerras
+![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/guerras_02.jpg)
+
 ![SAVAGE GUILD]({{site.baseurl}}/gitbook/images/guerras_01.jpg)
 
 ### PK's
